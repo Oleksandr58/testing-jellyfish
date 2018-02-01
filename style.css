@@ -68,6 +68,10 @@ input[type="text"]:hover {
     height: 1830px;
 }
 
+.code2 {
+    height: 1350px;
+}
+
 .code-wrap {
     margin: 30px 0;
     text-align: center;
